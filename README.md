@@ -1,4 +1,11 @@
 # FoodShop-Prefinals
-CIS2102 - Prefinals
+CIS2102 - Prefinal Exam
 
-Prefinals Exam submitted by: JOMER ALLAN G. BARCENILLA
+Created with Vue.js
+- Vue 3
+- Babel
+- Router
+- Vuex
+- Eslint + Prettier
+
+Submitted by: JOMER ALLAN G. BARCENILLA
